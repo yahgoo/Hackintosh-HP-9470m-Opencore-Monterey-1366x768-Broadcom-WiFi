@@ -415,25 +415,15 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BABmAQ==</data>
-				<key>framebuffer-con1-alldata</key>
-				<data>AgUAAAAEAAAHBAAAAwQAAAAEAACBAAAABAYAAAAEAACBAAAA</data>
+				<data>AwBmAQ==</data>
 				<key>framebuffer-con1-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-con1-flags</key>
 				<data>BgAAAA==</data>
 				<key>framebuffer-con1-type</key>
-				<data>AAQAAA==</data>
-				<key>framebuffer-memorycount</key>
-				<integer>2</integer>
+				<data>AAgAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<integer>1</integer>
-				<key>framebuffer-pipecount</key>
-				<integer>1</integer>
-				<key>framebuffer-portcount</key>
-				<integer>4</integer>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAABA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1295,6 +1285,8 @@
 			<key>AppleEvent</key>
 			<string>Builtin</string>
 			<key>CustomDelays</key>
+			<false/>
+			<key>GraphicsInputMirroring</key>
 			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>
