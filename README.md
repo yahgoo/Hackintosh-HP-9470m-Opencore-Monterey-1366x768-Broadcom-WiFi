@@ -1,0 +1,1 @@
+# Hackintosh-HP-9470m-Opencore-Monterey-1366x768-Broadcom-WiFi
